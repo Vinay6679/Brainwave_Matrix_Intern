@@ -8,7 +8,7 @@ Features:
 4. Tasks are stored locally using localStorage for seamless user experience.
 
 Getting Started:
-1. Clone the Repository: git clone https://github.com/vinay21387/To-Do-List.git
+1. Clone the Repository: git clone https://github.com/Vinay6679/Brainwave_Matrix_Intern.git
 2. Open in VS Code: Open the project folder in Visual Studio Code or your preferred code editor.
 3. Run the Application: Open the index.html file in your browser to use the To-Do List application.
 
